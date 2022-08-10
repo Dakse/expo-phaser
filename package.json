@@ -1,10 +1,12 @@
 {
-  "name": "expo-phaser",
+  "name": "@Dakse/expo-phaser",
   "version": "0.0.1-alpha.0",
   "description": "Build awesome 2D games with Phaser.js and Expo",
   "author": "Evan Bacon <bacon@expo.io> (https://expo.io/)",
   "license": "MIT",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "main": "lib/index.js",
   "keywords": [
     "react",
